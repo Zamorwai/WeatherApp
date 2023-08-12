@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <string name="get_startedBtn">Начать</string>
+    <string name="saveBtn">Сохранить</string>
+    <string name="change_settlement">Сменить город</string>
+
+    <string name="settings">Настройки</string>
+    <string name="settings_hint">Чтобы использовать приложение, введите название города</string>
+
+    <string name="snackbar_warning">Вы не ввели название города</string>
+    <string name="getting_temp_from_server">Получение температуры с сервера…</string>
+    <string name="getting_weather_description">Получение описания погоды погоды…</string>
+</resources>

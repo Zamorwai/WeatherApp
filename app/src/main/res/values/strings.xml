@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="get_startedBtn">Get Started</string>
+    <string name="saveBtn">Save</string>
+    <string name="change_settlement">Change Settlement</string>
+
+    <string name="settings">Settings</string>
+    <string name="settings_hint">To use the app, enter your settlement</string>
+
+    <string name="snackbar_warning">You didn\'t enter settlement name</string>
+    <string name="getting_temp_from_server">Getting temperature from server…</string>
+    <string name="getting_weather_description">Getting weather description…</string>
+</resources>
